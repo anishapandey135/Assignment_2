@@ -1,3 +1,5 @@
+//This code is impletentation of heuristic function to reduce the cost to some level.
+
 #include<iostream>
 #include<vector>
 #include<algorithm>
