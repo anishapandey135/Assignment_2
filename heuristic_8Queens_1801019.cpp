@@ -52,7 +52,7 @@ void print(chessboard &temporaray){
 	}
 	cout<<"Heuristic:"<<temporaray.h<<endl;
 	cout<<"Cost:"<<temporaray.p<<endl;
-	cout<<"No.of queens"<<temporaray.queens<<endl;
+	cout<<"No.of queens"<<temporaray.queens<<endl<<endl<<endl;
 }
 
 void states(vector<chessboard> &q1){
