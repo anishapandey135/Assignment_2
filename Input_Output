@@ -1,0 +1,19 @@
+Input : NIL
+
+Output:
+
+tt
+1 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 1 0 0 0 0 0 0 
+0 0 0 1 0 0 0 0 
+Heuristic:0
+Cost:8
+No.of queens8
+Solution found
+
+cost is 803
